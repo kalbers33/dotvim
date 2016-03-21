@@ -18,3 +18,8 @@ To install the plugins, we use Vundle. Run the following:
 ```
 vim +PluginInstall +qall
 ```
+
+Now included in solarized dark theme, for this to work correctly in terminal, it must be installed here:
+```
+http://ethanschoonover.com/solarized
+```
