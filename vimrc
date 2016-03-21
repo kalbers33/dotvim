@@ -13,6 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-airline/vim-airline'
+Plugin 'altercation/vim-colors-solarized'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -33,6 +34,8 @@ filetype plugin indent on    " required
 
 
 syntax on
+set background=dark
+colorscheme solarized
 set expandtab
 set tabstop=2
 set mouse=a
