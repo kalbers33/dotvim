@@ -1,4 +1,5 @@
 set nocompatible              " be iMproved, required
+filetype on
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
@@ -28,7 +29,6 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
-
 
 
 syntax on
