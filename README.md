@@ -11,3 +11,8 @@ To install on a mac, in addition to the first step, you must also create a simli
 ```
 ln ~/.vim/vimrc ~/.vimrc
 ```
+
+To install the plugins, we use Vundle. Run the following:
+'''
+vim +PluginInstall +qall
+'''

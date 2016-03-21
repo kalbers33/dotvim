@@ -1,2 +1,5 @@
 *.swp
 .netrwhist
+
+bundle/ctrlp.vim/*
+bundle/nerdtree/*
